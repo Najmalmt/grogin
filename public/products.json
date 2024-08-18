@@ -1,0 +1,265 @@
+[
+    {
+        "id": 1,
+        "name": "Yellow Potatoes Whole Fresh, 5lb Bag",
+        "price": "$0.50",
+        "oldPrice": "$1.09",
+        "discount": "75%",
+        "imageUrl": [
+            "/products/potatoes-1.jpg",
+            "/products/potatoes-2.png",
+            "/products/potatoes-3.jpg",
+            "/products/potatoes-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 4,
+        "category": ["Fruits & Vegetables"],
+        "color": "Yellow",
+        "brand": "Fresh"
+    },
+    {
+        "id": 2,
+        "name": "Large Bagged Oranges",
+        "price": "$0.89",
+        "oldPrice": "$1.78",
+        "discount": "50%",
+        "imageUrl": [
+            "/products/orange-1.jpg",
+            "/products/orange-2.jpg",
+            "/products/orange-3.jpg",
+            "/products/orange-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Fruits & Vegetables", "Healthcare"],
+        "color": "Orange",
+        "brand": "Fresh"
+    },
+    {
+        "id": 3,
+        "name": "Strawberries – 1lb",
+        "price": "$1.50",
+        "oldPrice": "$2.15",
+        "discount": "31%",
+        "imageUrl": [
+            "/products/strawberry-1.jpg",
+            "/products/strawberry-2.jpg",
+            "/products/strawberry-3.jpg",
+            "/products/strawberry-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Fruits & Vegetables", "Baby & Pregnancy", "Healthcare"],
+        "color": "red",
+        "brand": "Fresh"
+    },
+    {
+        "id": 4,
+        "name": "Simple Kitchen FD Sliced Strawberries – 1.08lb",
+        "price": "$21.90",
+        "oldPrice": "$24.90",
+        "discount": "13%",
+        "imageUrl": [
+            "/products/Sliced_Strawberries-1.jpg",
+            "/products/Sliced_Strawberries-2.jpg",
+            "/products/Sliced_Strawberries-3.jpg",
+            "/products/Sliced_Strawberries-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Fruits & Vegetables", "Frozen Foods"],
+        "color": "red"
+    },
+    {
+        "id": 5,
+        "name": "Peach – each",
+        "price": "$0.75",
+        "oldPrice": "$1.75",
+        "discount": "58%",
+        "imageUrl": [
+            "/products/peach-1.jpg",
+            "/products/peach-2.jpg",
+            "/products/peach-3.jpg",
+            "/products/peach-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Fruits & Vegetables", "Baby & Pregnancy", "Healthcare"]
+    },
+    {
+        "id": 6,
+        "name": "Marketside Fresh Organic Bananas, Bunch",
+        "price": "$0.89",
+        "oldPrice": "$1.99",
+        "discount": "56%",
+        "imageUrl": [
+            "/products/banana-1.jpg",
+            "/products/banana-2.jpg",
+            "/products/banana-3.jpg",
+            "/products/banana-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Fruits & Vegetables", "Baby & Pregnancy", "Healthcare"]
+    },
+    {
+        "id": 7,
+        "name": "Large Garden Spinach & Herb Wrap Tortillas –…",
+        "price": "$27.90",
+        "oldPrice": "$32.90",
+        "discount": "16%",
+        "imageUrl": [
+            "/products/wraps-1.jpg",
+            "/products/wraps-2.jpg",
+            "/products/wraps-3.jpg",
+            "/products/wraps-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Breakfast & Dairy"]
+    },
+    {
+        "id": 8,
+        "name": "Halloween Harvest Caramel Apple Soft Caramels –…",
+        "price": "$19.37",
+        "oldPrice": "$21.37",
+        "discount": "10%",
+        "imageUrl": [
+            "/products/caramel_apple-1.jpg",
+            "/products/caramel_apple-2.jpg",
+            "/products/caramel_apple-3.jpg",
+            "/products/caramel_apple-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Biscuits & Snacks"]
+    },
+    {
+        "id": 9,
+        "name": "Fresh Purple Eggplant",
+        "price": "$2.99",
+        "oldPrice": "$3.99",
+        "discount": "26%",
+        "imageUrl": [
+            "/products/eggplant-1.jpg",
+            "/products/eggplant-2.jpg",
+            "/products/eggplant-3.jpg",
+            "/products/eggplant-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Fruits & Vegetables", "Healthcare"]
+    },
+    {
+        "id": 10,
+        "name": "Fresh Pomegranate, Each",
+        "price": "$1.50",
+        "oldPrice": "$2.99",
+        "discount": "50%",
+        "imageUrl": [
+            "/products/pomegranate-1.jpg",
+            "/products/pomegranate-2.jpg",
+            "/products/pomegranate-3.jpg",
+            "/products/pomegranate-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Fruits & Vegetables", "Baby & Pregnancy", "Healthcare"]
+    },
+    {
+        "id": 11,
+        "name": "Fresh Lemon, Each",
+        "price": "$0.50",
+        "oldPrice": "$1.99",
+        "discount": "75%",
+        "imageUrl": [
+            "/products/lemon-1.jpg",
+            "/products/lemon-2.jpg",
+            "/products/lemon-3.jpg",
+            "/products/lemon-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Fruits & Vegetables", "Healthcare"]
+    },
+    {
+        "id": 12,
+        "name": "Fresh Cauliflower, Each",
+        "price": "$12.79",
+        "oldPrice": "$14.79",
+        "discount": "14%",
+        "imageUrl": [
+            "/products/cauliflower-1.jpg",
+            "/products/cauliflower-2.jpg",
+            "/products/cauliflower-3.jpg",
+            "/products/cauliflower-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Fruits & Vegetables", "Healthcare"]
+    },
+    {
+        "id": 13,
+        "name": "Fresh Broccoli Crowns, Each",
+        "price": "$11.54",
+        "oldPrice": "$17.88",
+        "discount": "50%",
+        "imageUrl": [
+            "/products/broccoli-1.jpg",
+            "/products/broccoli-2.jpg",
+            "/products/broccoli-3.jpg",
+            "/products/broccoli-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Fruits & Vegetables", "Healthcare"]
+    },
+    {
+        "id": 14,
+        "name": "Blackberries – 6oz",
+        "price": "$2.99",
+        "oldPrice": "$4.99",
+        "discount": "41%",
+        "imageUrl": [
+            "/products/blackberry-1.jpg",
+            "/products/blackberry-2.jpg",
+            "/products/blackberry-3.jpg",
+            "/products/blackberry-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Fruits & Vegetables", "Baby & Pregnancy", "Healthcare"]
+    },
+    {
+        "id": 15,
+        "name": "30g Protein Shake – Salted Caramel – 11 fl oz-4pk",
+        "price": "$11.99",
+        "oldPrice": "$12.99",
+        "discount": "8%",
+        "imageUrl": [
+            "/products/salted_caramel-1.jpg",
+            "/products/salted_caramel-2.jpg",
+            "/products/salted_caramel-3.jpg",
+            "/products/salted_caramel-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Breakfast & Dairy", "Beverages"]
+    },
+    {
+        "id": 16,
+        "name": "Fresh Granny Smith Apple,Each",
+        "price": "$9.88",
+        "oldPrice": "$15.99",
+        "discount": "17%",
+        "imageUrl": [
+            "/products/green-apple-1.jpg",
+            "/products/green-apple-2.jpg",
+            "/products/green-apple-3.jpg",
+            "/products/green-apple-4.jpg"
+        ],
+        "isInStock": true,
+        "rating": 3,
+        "category": ["Fruits & Vegetables", "Healthcare"]
+    }
+]
